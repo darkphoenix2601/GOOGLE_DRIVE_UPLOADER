@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/GOOGLE_DRIVE_UPLOADER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-ashu2601/Google_Drive_Uploader)
 
 ### Installation
 - Install required modules.
